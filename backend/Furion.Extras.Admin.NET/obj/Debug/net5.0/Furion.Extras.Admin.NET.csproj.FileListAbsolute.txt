@@ -1,0 +1,14 @@
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\bin\Debug\net5.0\applicationconfig.json
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\bin\Debug\net5.0\Furion.Extras.Admin.NET.xml
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\bin\Debug\net5.0\Furion.Extras.Admin.NET.deps.json
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\bin\Debug\net5.0\Furion.Extras.Admin.NET.dll
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\bin\Debug\net5.0\ref\Furion.Extras.Admin.NET.dll
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\bin\Debug\net5.0\Furion.Extras.Admin.NET.pdb
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.csprojAssemblyReference.cache
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.AssemblyInfoInputs.cache
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.AssemblyInfo.cs
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.csproj.CoreCompileInputs.cache
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.dll
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\ref\Furion.Extras.Admin.NET.dll
+E:\Demo\Admin.NET\backend\Furion.Extras.Admin.NET\obj\Debug\net5.0\Furion.Extras.Admin.NET.pdb

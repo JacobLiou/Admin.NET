@@ -1,0 +1,59 @@
+【时间】2021-07-16 16:21:01,004
+【等级】WRN
+【消息】Entity 'SysOrg' has a global query filter defined and is the required end of a relationship with the entity 'SysEmpExtOrgPos'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+
+【时间】2021-07-16 16:21:01,115
+【等级】WRN
+【消息】Entity 'SysPos' has a global query filter defined and is the required end of a relationship with the entity 'SysEmpPos'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+
+【时间】2021-07-16 16:21:01,116
+【等级】WRN
+【消息】Entity 'SysOrg' has a global query filter defined and is the required end of a relationship with the entity 'SysRoleDataScope'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+
+【时间】2021-07-16 16:21:01,116
+【等级】WRN
+【消息】Entity 'SysRole' has a global query filter defined and is the required end of a relationship with the entity 'SysRoleMenu'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+
+【时间】2021-07-16 16:21:01,116
+【等级】WRN
+【消息】Entity 'SysOrg' has a global query filter defined and is the required end of a relationship with the entity 'SysUserDataScope'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+
+【时间】2021-07-16 16:21:01,116
+【等级】WRN
+【消息】Entity 'SysRole' has a global query filter defined and is the required end of a relationship with the entity 'SysUserRole'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+
+【时间】2021-07-16 16:21:01,148
+【等级】WRN
+【消息】Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+
+【时间】2021-07-16 16:21:01,832
+【等级】INF
+【消息】Entity Framework Core 5.0.7 initialized 'DefaultDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite' with options: SensitiveDataLoggingEnabled DetailedErrorsEnabled MigrationsAssembly=Admin.NET.Database.Migrations 
+
+【时间】2021-07-16 16:21:03,716
+【等级】INF
+【消息】Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "s"."Id", "s"."CreatedTime", "s"."CreatedUserId", "s"."CreatedUserName", "s"."Cron", "s"."DoOnce", "s"."ExecuteType", "s"."Headers", "s"."Interval", "s"."IsDeleted", "s"."JobName", "s"."Remark", "s"."RequestParameters", "s"."RequestType", "s"."RequestUrl", "s"."StartNow", "s"."TimerType", "s"."UpdatedTime", "s"."UpdatedUserId", "s"."UpdatedUserName"
+FROM "sys_timer" AS "s"
+WHERE "s"."StartNow"
+
+【时间】2021-07-16 16:21:04,001
+【等级】INF
+【消息】Application started. Press Ctrl+C to shut down.
+
+【时间】2021-07-16 16:21:04,002
+【等级】INF
+【消息】Hosting environment: Development
+
+【时间】2021-07-16 16:21:04,002
+【等级】INF
+【消息】Content root path: E:\Demo\Admin.NET\backend\Admin.NET.Web.Entry
+
+【时间】2021-07-16 16:21:04,500
+【等级】WRN
+【消息】Failed to determine the https port for redirect.
+
+【时间】2021-07-16 16:21:05,059
+【等级】INF
+【消息】HTTP GET / responded 301 in 552.9880 ms
+
